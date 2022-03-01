@@ -1,7 +1,10 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img alt="Vue logo" src="../assets/Author.jpg">
+    <h3>Author: Weng Yin</h3>
+    <p>Mother Tongue: Mandarin</p>
+    <p>Other Languages: Malay & English</p>
+    <p>Interest in studying Spanish, Russian, German, France</p>
   </div>
 </template>
 

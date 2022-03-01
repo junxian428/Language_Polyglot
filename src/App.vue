@@ -2,13 +2,17 @@
   <div id="nav">
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
+    <router-link to="/spanish" style="padding:10px">Spanish</router-link>
+    <router-link to="/france" style="padding:10px">France</router-link>
+    <router-link to="/russian" style="padding:10px">Russian</router-link>
+    <router-link to="/german" style="padding:10px">German</router-link>
   </div>
   <router-view/>
 </template>
 
 <style>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: "Times New Roman", Times, serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
